@@ -2,7 +2,7 @@
 
 <img src="https://github.com/camer0ni/chip-8-emulator/blob/main/Screenshot%20(319).png?raw=true" width="400">
 
-This is a simple Chip-8 emulator written in C++ using SFML. It runs on Windows for now, but I plan to make it work on other platforms later. Sound is not yet implemented, but I also plan to add sound in the future. This emulator can load and run Chip-8 ROMs. It has a clean display, accurate timers, and good control handling to make games playable. Games generally work, but some games may still have small bugs or glitches. The emulator requires Windows and Visual Studio or another C++ compiler that supports C++11 or later. You also need the SFML library installed and set up in your project to build and run the emulator.
+This is a Chip-8 emulator written in C++ using SFML. It runs on Windows for now, but I plan to make it work on other platforms later. Sound is not yet implemented, but I also plan to add sound in the future. This emulator can load and run Chip-8 ROMs. It has a clean display, accurate timers, and good control handling to make games playable. Games generally work, but some games may still have small bugs or glitches. The emulator requires Windows and Visual Studio or another C++ compiler that supports C++11 or later. You also need the SFML library installed and set up in your project to build and run the emulator.
 
 ## Controls
 
@@ -28,6 +28,6 @@ This is a simple Chip-8 emulator written in C++ using SFML. It runs on Windows f
 Currently, there is no sound but this will be added in the future. The emulator only works on Windows right now, but support for other systems is planned. Some games may still have minor visual glitches or bugs.
 
 ## Directions
-To build the emulator, download or clone the project and open the solution file (.sln) in Visual Studio. Make sure SFML is installed and added to your project properly. Then, build and run. 
+To build the emulator, download or clone the project and open the .sln in Visual Studio. Make sure SFML is installed and added to your project properly. Then, build and run. 
 
 This emulator was made for learning purposes and is still being improved.
